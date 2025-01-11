@@ -1,0 +1,51 @@
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <meta name="keywords" content={{ page.categories }}>
+
+
+  <link rel="icon" type="image/png" href="static/img/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="static/img/favicon.svg" />
+  <link rel="shortcut icon" href="static/img/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="static/img/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="DATA-FM" />
+  <link rel="manifest" href="static/img/site.webmanifest" />
+
+  {% if page.favicon %}
+  <link rel="shortcut icon" href="{{ page.favicon | prepend:site.baseurl }}">
+  {% endif %}
+
+
+  <title>{{ page.urltitle }}</title>
+  <meta name="description" content="{{site.description}}">
+
+  <!--Open Graph Related Stuff-->
+  <meta property="og:title" content="{{page.title}}"/>
+  <meta property="og:url" content="https://datafm.github.io"/>
+  <meta property="og:description" content="{{site.description}}"/>
+  <meta property="og:site_name" content="{{page.urltitle}}"/>
+  <meta property="og:image" content="{{ site.url }}/static/img/cover_sg.jpg"/>
+
+  <!--Twitter Card Stuff-->
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="{{page.title}}"/>
+  <meta name="twitter:description" content="{{site.description}}"/>
+  <meta property="twitter:image" content="{{ site.url }}/static/img/cover_sg.jpg"/>
+
+  <!-- CSS  -->
+  <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/static/css/main.css" | prepend:site.baseurl }}" media="screen,projection">
+
+  <!-- Google tag (gtag.js) -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPPQVNRFNE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-LPPQVNRFNE');
+  </script> -->
+
+</head>
