@@ -328,7 +328,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>4:05 - 4:35 PM</td>
           <td>
-            Invited Talk: <i>Kyle Lo or Luca Soldaini</i> 🤝🗣️
+            Invited Talk: <i>Kyle Lo</i> 🤝🗣️
           </td>
         </tr>
         <tr>
@@ -428,15 +428,6 @@ To sustain our review and program selection processes, we require <b>at least on
       <h6>Datalogy AI</h6>
     </div>
   </div>  
-  <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
-    <a href="https://soldaini.net/">
-      <img class="people-pic" src="static/img/people/luca_soldaini.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://soldaini.net/">Luca Soldaini</a>
-      <h6>Allen Institute for AI (Ai2)</h6>
-    </div>
-  </div>
 </div>
 
 <br/>
