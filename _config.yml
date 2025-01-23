@@ -7,5 +7,3 @@ include: ['_pages']
 
 domain: datafm.github.io   # if you want to force HTTPS, specify the domain without the http at the start
 url: https://datafm.github.io  # the base hostname and protocol for your site, e.g. https://example.com
-plugins:
-  - jekyll-sitemap
