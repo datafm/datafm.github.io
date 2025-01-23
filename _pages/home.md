@@ -1,6 +1,6 @@
 ---
 layout: default
-urltitle: "2nd DATA-FM Workshop @ ICLR 2025"
+urltitle: "DATA-FM Workshop @ ICLR 2025"
 title: "2nd ICLR Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025)"
 categories: workshop, iclr, data, 2025, data attribution, data valuation, data selection
 permalink: /
