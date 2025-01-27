@@ -101,7 +101,7 @@ acknowledgements: ""
       <li>Evaluating and comparing data attribution methods.</li>
       <li>Economic models for data pricing and the design of data marketplaces that ensure fair compensation.</li>
     </ul>
-    <p>Legal Solutions for Data Copyright Protection</p>
+    <p>Legal and Technical Solutions for Data Copyright Protection</p>
     <ul>
       <li>Mitigation strategies and mathematical frameworks for addressing copyright issues in FM training data.</li>
       <li>Connections between copyright, privacy, and fairness, including adaptations of techniques like machine unlearning.</li>
