@@ -101,7 +101,7 @@ acknowledgements: ""
       <li>Evaluating and comparing data attribution methods.</li>
       <li>Economic models for data pricing and the design of data marketplaces that ensure fair compensation.</li>
     </ul>
-    <p>Law and Technical Solutions for Data Copyright Protection</p>
+    <p>Legal Solutions for Data Copyright Protection</p>
     <ul>
       <li>Mitigation strategies and mathematical frameworks for addressing copyright issues in FM training data.</li>
       <li>Connections between copyright, privacy, and fairness, including adaptations of techniques like machine unlearning.</li>
@@ -126,7 +126,7 @@ acknowledgements: ""
     <br />
     <p>We welcome submissions to two paper tracks for the workshop:</p>
     <ol>
-      <li><strong>Regular/Position Papers Track</strong>: Submissions may be up to 10 pages, excluding references and appendices. All papers must be formatted using the DATA-FM template (see below). </li>
+      <li><strong>Research/Position Papers Track</strong>: Submissions may be up to 10 pages, excluding references and appendices. All papers must be formatted using the DATA-FM template (see below). </li>
       <li><strong>Tiny Papers Track</strong>: This track encourages submissions describe early-stage research, including modest theoretical results, novel observations from preliminary experiments, or new perspectives on existing problems. Submissions are required to be 3-5 pages using the official ICLR template.</li>
     </ol>
     <p>
