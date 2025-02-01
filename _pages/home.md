@@ -66,7 +66,7 @@ acknowledgements: ""
         -->
         <tr>
           <td><b>Workshop Date</b></td>
-          <td>TBA, 2025 @ Singapore EXPO, Singapore</td>
+          <td>April 28th, 2025 @ Singapore EXPO, Singapore</td>
         </tr>
       </tbody>
     </table>
