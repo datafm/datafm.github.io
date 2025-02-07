@@ -130,7 +130,7 @@ acknowledgements: ""
       <li><strong>Tiny Papers Track</strong>: This track encourages submissions describe early-stage research, including modest theoretical results, novel observations from preliminary experiments, or new perspectives on existing problems. Submissions are required to be 3-5 pages using the official ICLR template.</li>
     </ol>
     <p>
-    Paper templates and style files (adapted from the ICLR template) can be found in <a class="red" href="https://www.overleaf.com/read/nwjhqwpftgnw#26a403">this Overleaf template</a>. Submissions must follow the template and style, and be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits for the specified track (excluding references and appendices). Accepted papers will be *optionally* shared on OpenReview, but the workshop will remain <strong>non-archival</strong>. 
+    Paper templates and style files (adapted from the ICLR template) can be found in <a class="red" href="https://www.overleaf.com/read/nwjhqwpftgnw#26a403">this Overleaf template</a>. Submissions must follow the template and style, and be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits for the specified track (excluding references and appendices). Accepted papers will be <b>optionally</b> shared on OpenReview, but the workshop will remain <strong>non-archival</strong>. 
     </p>
     <p> Submissions should be uploaded via the <a class="red" href="https://openreview.net/group?id=ICLR.cc/2025/Workshop/Data_Problems">ICLR 2025 DATA-FM Workshop Submission</a> portal on OpenReview (<b>OPEN NOW</b>).
     </p>
