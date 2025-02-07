@@ -419,15 +419,15 @@ To sustain our review and program selection processes, we require <b>at least on
       <h6>University of California, Los Angeles (UCLA)</h6>
     </div>
   </div>
-  <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
+<!--   <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
     <a href="https://www.arimorcos.com/">
       <img class="people-pic" src="static/img/people/ari_morcos.jpg">
     </a>
-<!--     <div class="people-name">
+    <div class="people-name">
       <a href="https://www.arimorcos.com/">Ari Morcos</a>
       <h6>Datalogy AI</h6>
-    </div> -->
-  </div>  
+    </div>
+  </div>   -->
 </div>
 
 <br/>
