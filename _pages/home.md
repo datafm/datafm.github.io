@@ -240,7 +240,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>9:05 - 9:35 AM</td>
           <td>
-            Invited Talk: <i>Ari Marcos</i> 🤝🗣️
+            Invited Talk 🤝🗣️
           </td>
         </tr>
         <tr>
@@ -354,7 +354,7 @@ To sustain our review and program selection processes, we require <b>at least on
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Speakers (Tentative)</h2>
     <br />
   </div>
 </div>
@@ -423,10 +423,10 @@ To sustain our review and program selection processes, we require <b>at least on
     <a href="https://www.arimorcos.com/">
       <img class="people-pic" src="static/img/people/ari_morcos.jpg">
     </a>
-    <div class="people-name">
+<!--     <div class="people-name">
       <a href="https://www.arimorcos.com/">Ari Morcos</a>
       <h6>Datalogy AI</h6>
-    </div>
+    </div> -->
   </div>  
 </div>
 
