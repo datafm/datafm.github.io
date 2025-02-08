@@ -46,7 +46,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td><b>Submission Deadline</b></td>
-          <td>Feb 7th, 2025, 11:59pm Anywhere on Earth (AoE)</td>
+          <td><s>Feb 7th, 2025, 11:59pm Anywhere on Earth (AoE)</s></td>
         </tr>
         <tr>
           <td><b>Decision Notification</b></td>
