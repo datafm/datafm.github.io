@@ -246,7 +246,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>9:35 - 10:05 AM</td>
           <td>
-            Invited Talk: <i>Baharan Mirzasoleiman</i> 🤝🗣️
+            Invited Talk 🤝🗣️
           </td>
         </tr>
         <tr>
@@ -264,7 +264,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>11:30 - 12:00 PM</td>
           <td>
-            Invited Talk: <i>Peter Henderson</i> 🤝🗣️
+            Invited Talk 🤝🗣️
           </td>
         </tr>
         <tr>
@@ -298,13 +298,13 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>1:30 - 2:00 PM</td>
           <td>
-            Invited Talk: <i>Bryan Low</i> 🤝🗣️
+            Invited Talk 🤝🗣️
           </td>
         </tr>
         <tr>
           <td>2:00 - 2:30 PM</td>
           <td>
-            Invited Talk: <i>Danqi Chen</i> 🤝🗣️
+            Invited Talk 🤝🗣️
           </td>
         </tr>
         <tr>
@@ -328,7 +328,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>4:05 - 4:35 PM</td>
           <td>
-            Invited Talk: <i>Kyle Lo</i> 🤝🗣️
+            Invited Talk 🤝🗣️
           </td>
         </tr>
         <tr>
