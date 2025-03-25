@@ -50,13 +50,13 @@ acknowledgements: ""
         </tr>
         <tr>
           <td><b>Decision Notification</b></td>
-          <td>March 5th, 2025</td>
+          <td><s>March 5th, 2025</s></td>
         </tr>
         <tr>
         </tr>
         <tr>
           <td><b>Camera-ready Deadline</b></td>
-          <td>TBA, 2025</td>
+          <td>April 10th, 2025</td>
         </tr>
         <!-- Need to determine if ICLR supports videos for workshops.
         <tr>
