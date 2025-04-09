@@ -265,7 +265,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>10:35 - 10:45 AM</td>
           <td>
-            Spotlight Presentation 2: Zheng Xu 📊 <br>
+            Spotlight Presentation: Zheng Xu 📊 <br>
             <a href="https://openreview.net/forum?id=CpXhMOJOQ6" target="_blank" > Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs </a>
           </td>
         </tr>
