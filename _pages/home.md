@@ -217,7 +217,7 @@ To sustain our review and program selection processes, we require <b>at least on
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule (Tentative)</h2>
+    <h2>Schedule 28/04/2025 (Tentative)</h2>
     <br/>
     <p> All times listed below are in Singapore Time SGT (GMT+8).  </p>
   </div>
@@ -240,13 +240,13 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>9:05 - 9:35 AM</td>
           <td>
-            Invited Talk 🤝🗣️
+            Invited Talk: <a href="https://www.peterhenderson.co/" target="_blank" >Peter Henderson</a> 🤝🗣️
           </td>
         </tr>
         <tr>
           <td>9:35 - 10:05 AM</td>
           <td>
-            Invited Talk 🤝🗣️
+            Invited Talk: <a href="https://www.cs.princeton.edu/~danqic/" target="_blank" > Danqi Chen</a> 🤝🗣️
           </td>
         </tr>
         <tr>
@@ -258,13 +258,15 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>10:25 - 10:35 AM</td>
           <td>
-            Spotlight Presentation 1 📊
+            Spotlight Presentation: Kaifeng Lyu 📊 <br>
+            <a href="https://openreview.net/forum?id=ZKA4yiGdrA" target="_blank" > Data Mixing Can Induce Phase Transitions in Knowledge Acquisition</a>
           </td>
         </tr>
         <tr>
           <td>10:35 - 10:45 AM</td>
           <td>
-            Spotlight Presentation 2 📊
+            Spotlight Presentation 2: Zheng Xu 📊 <br>
+            <a href="https://openreview.net/forum?id=CpXhMOJOQ6" target="_blank" > Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs </a>
           </td>
         </tr>
         <tr>
@@ -286,31 +288,34 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>1:30 - 2:00 PM</td>
           <td>
-            Invited Talk 🤝🗣️
+            Invited Talk: <a href="https://baharanm.github.io/" target="_blank" >Baharan Mirzasoleiman </a>🤝🗣️
           </td>
         </tr>
         <tr>
           <td>2:00 - 2:30 PM</td>
           <td>
-            Invited Talk 🤝🗣️
+            Invited Talk: <a href="https://kyleclo.com/" target="_blank" > Kyle Lo</a> 🤝🗣️ <br>
+             <b>The OLMo Cookbook: Open Recipes for Language Model Data Curation </b>
           </td>
         </tr>
         <tr>
           <td>2:30 - 2:40 PM</td>
           <td>
-            Spotlight Presentation 3 📊
+            Spotlight Presentation: Xiang Yue 📊 <br>
+            <a href="https://openreview.net/forum?id=AgtQlhMQ0V" target="_blank" > Demystifying Long CoT Reasoning in LLMs </a>
           </td>
         </tr>
         <tr>
           <td>2:40 - 2:50 PM</td>
           <td>
-            Spotlight Presentation 4 📊
+            Spotlight Presentation: Brandon Trabucco  📊 <br>
+            <a href="https://openreview.net/forum?id=UUEGIdyQI0" target="_blank" > Towards Internet-Scale Training For Agents </a>
           </td>
         </tr>
         <tr>
           <td>2:50 - 3:20 PM</td>
           <td>
-            Invited Talk 🤝🗣️
+            Invited Talk: <a href="https://www.comp.nus.edu.sg/~lowkh/" target="_blank" > Bryan Low</a> 🤝🗣️
           </td>
         </tr>
         <tr>
