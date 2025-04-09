@@ -53,7 +53,6 @@ permalink: /accepted/
 
 
     </h2>
-  </div>
 
 <h1>Oral</h1>
     <br>
