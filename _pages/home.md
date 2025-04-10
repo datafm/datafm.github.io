@@ -250,27 +250,23 @@ To sustain our review and program selection processes, we require <b>at least on
           </td>
         </tr>
         <tr>
-          <td>10:05 - 10:25 AM</td>
+          <td>10:05 - 10:20 AM</td>
           <td>
             Coffee Break ☕
           </td>
         </tr>
         <tr>
-          <td>10:25 - 10:35 AM</td>
+          <td>10:20 - 10:50 AM</td>
           <td>
-            Spotlight Presentation: Kaifeng Lyu 📊 <br>
+            Spotlight Presentation: Xinran Gu 📊 <br>
             <a href="https://openreview.net/forum?id=ZKA4yiGdrA" target="_blank" > Data Mixing Can Induce Phase Transitions in Knowledge Acquisition</a>
+            <br>
+            Spotlight Presentation: Xiang Yue 📊 <br>
+            <a href="https://openreview.net/forum?id=AgtQlhMQ0V" target="_blank" > Demystifying Long CoT Reasoning in LLMs </a>
           </td>
         </tr>
         <tr>
-          <td>10:35 - 10:45 AM</td>
-          <td>
-            Spotlight Presentation: Zheng Xu 📊 <br>
-            <a href="https://openreview.net/forum?id=CpXhMOJOQ6" target="_blank" > Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs </a>
-          </td>
-        </tr>
-        <tr>
-          <td>10:45 - 12:00 PM</td>
+          <td>10:50 - 12:00 PM</td>
           <td>
             Poster Session I 🪧 
           </td>
@@ -288,7 +284,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>1:30 - 2:00 PM</td>
           <td>
-            Invited Talk: <a href="https://baharanm.github.io/" target="_blank" >Baharan Mirzasoleiman </a>🤝🗣️
+            Invited Talk: <a href="https://people.csail.mit.edu/mirrokni/Welcome.html" target="_blank" >Vahab Mirrokni </a>🤝🗣️
           </td>
         </tr>
         <tr>
@@ -299,45 +295,41 @@ To sustain our review and program selection processes, we require <b>at least on
           </td>
         </tr>
         <tr>
-          <td>2:30 - 2:40 PM</td>
+          <td>2:30 - 3:00 PM</td>
           <td>
-            Spotlight Presentation: Xiang Yue 📊 <br>
-            <a href="https://openreview.net/forum?id=AgtQlhMQ0V" target="_blank" > Demystifying Long CoT Reasoning in LLMs </a>
-          </td>
-        </tr>
-        <tr>
-          <td>2:40 - 2:50 PM</td>
-          <td>
+            Spotlight Presentation: Zheng Xu 📊 <br>
+            <a href="https://openreview.net/forum?id=CpXhMOJOQ6" target="_blank" > Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs </a>
+            <br>
             Spotlight Presentation: Brandon Trabucco  📊 <br>
             <a href="https://openreview.net/forum?id=UUEGIdyQI0" target="_blank" > Towards Internet-Scale Training For Agents </a>
           </td>
         </tr>
         <tr>
-          <td>2:50 - 3:20 PM</td>
-          <td>
-            Invited Talk: <a href="https://www.comp.nus.edu.sg/~lowkh/" target="_blank" > Bryan Low</a> 🤝🗣️
-          </td>
-        </tr>
-        <tr>
-          <td>3:20 - 3:30 PM</td>
+          <td>3:00 - 3:30 PM</td>
           <td>
             Coffee Break ☕
           </td>
         </tr>
         <tr>
+          <td>3:30 - 4:00 PM</td>
+          <td>
+            Invited Talk: <a href="https://www.comp.nus.edu.sg/~lowkh/" target="_blank" > Bryan Low</a> 🤝🗣️
+          </td>
+        </tr>
+        <!-- <tr>
           <td>3:30 - 4:10 PM</td>
           <td>
             Panel Discussion 👥💬
           </td>
-        </tr>
+        </tr> -->
         <tr>
-          <td>4:10 - 4:15 PM</td>
+          <td>4:00 - 4:05 PM</td>
           <td>
             Closing Remarks 📗
           </td>
         </tr>
         <tr>
-          <td>4:15 - CLOSE</td>
+          <td>4:05 - CLOSE</td>
           <td>
             Poster Session II 🪧
           </td>
@@ -407,6 +399,15 @@ To sustain our review and program selection processes, we require <b>at least on
     <div class="people-name">
       <a href="https://www.comp.nus.edu.sg/~lowkh/">Bryan Low</a>
       <h6>National University of Singapore (NUS)</h6>
+    </div>
+  </div>
+  <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
+    <a href="https://people.csail.mit.edu/mirrokni/Welcome.html">
+      <img class="people-pic" src="static/img/people/vahab_mirrokni.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://people.csail.mit.edu/mirrokni/Welcome.html">Vahab Mirrokni</a>
+      <h6>Google Research</h6>
     </div>
   </div>
   <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">

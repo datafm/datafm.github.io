@@ -44,7 +44,7 @@ permalink: /accepted/
   <div class="col-xs-12" style="padding-top: 40px;">
 
     <h2>
-        We are grateful for the numerous submissions received for the 2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025). We thank all the authors who submited to our workshop. We are happy to announce this year's accepted papers.
+        We are grateful for the numerous submissions received for the 2nd Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM @ ICLR 2025). We thank all the authors who submited to our workshop. We are happy to announce this year's accepted papers. Congratulations!
 
 
 
@@ -59,9 +59,12 @@ permalink: /accepted/
 
    
     <div class="submission-block">
-    {% for item in site.data.papers %}
+    {% for item in site.data.allpapers %}
         {% if item.decision == "Accept (Oral)" %}
-            <h3>{{ item.title  }}<br>
+            <h3>{{ item.title  }}
+            <br>
+            <i>{{ item.authors  }}</i>
+            <br>
             <a href="{{ item.link  }}" target="_blank"> OpenReview </a>
             <a class="abstract-toggle" onclick="toggleAbstract('{{ item.link  }}', this)">[Show Abstract]</a>
 
@@ -80,9 +83,12 @@ permalink: /accepted/
 
    
     <div class="submission-block">
-    {% for item in site.data.papers %}
+    {% for item in site.data.allpapers %}
         {% if item.decision == "Accept (Poster)" %}
-            <h3>{{ item.title  }}<br>
+            <h3>{{ item.title  }}
+            <br>
+            <i>{{ item.authors  }}</i>
+            <br>
             <a href="{{ item.link  }}" target="_blank"> OpenReview </a>
             <a class="abstract-toggle" onclick="toggleAbstract('{{ item.link  }}', this)">[Show Abstract]</a>
 
