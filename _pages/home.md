@@ -428,7 +428,7 @@ To sustain our review and program selection processes, we require <b>at least on
       <h6>Google Research</h6>
     </div>
   </div>
-  <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
+<!--   <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
     <a href="https://baharanm.github.io/">
       <img class="people-pic" src="static/img/people/baharan_mirzasoleiman.jpg">
     </a>
@@ -436,7 +436,7 @@ To sustain our review and program selection processes, we require <b>at least on
       <a href="https://baharanm.github.io/">Baharan Mirzasoleiman</a>
       <h6>University of California, Los Angeles (UCLA)</h6>
     </div>
-  </div>
+  </div> -->
 <!--   <div class="col-lg-3 col-md-3  col-sm-6  col-xs-12">
     <a href="https://www.arimorcos.com/">
       <img class="people-pic" src="static/img/people/ari_morcos.jpg">
