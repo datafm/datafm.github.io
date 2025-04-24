@@ -331,7 +331,8 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>3:30 - 4:00 PM</td>
           <td>
-            Invited Talk: <a href="https://www.comp.nus.edu.sg/~lowkh/" target="_blank" > Bryan Low</a> 🤝🗣️
+            Invited Talk: <a href="https://www.comp.nus.edu.sg/~lowkh/" target="_blank" > Bryan Low</a> 🤝🗣️ <br>
+             <b>Data-centric AI Research @ GLOW.AI</b>
           </td>
         </tr>
         <!-- <tr>
