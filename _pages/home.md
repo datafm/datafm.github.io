@@ -56,7 +56,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td><b>Camera-ready Deadline</b></td>
-          <td>April 23rd, 2025</td>
+          <td><s>April 23rd, 2025</s></td>
         </tr>
         <!-- Need to determine if ICLR supports videos for workshops.
         <tr>
@@ -66,7 +66,11 @@ acknowledgements: ""
         -->
         <tr>
           <td><b>Workshop Date</b></td>
-          <td>April 28th, 2025 @ Singapore EXPO, Singapore</td>
+          <td>April 28th, 2025 @ Singapore EXPO Hall 4 #4, Singapore</td>
+        </tr>
+        <tr>
+          <td><b>Workshop Virtual Link</b></td>
+          <td><a href="https://iclr.cc/virtual/2025/workshop/23969" target="_blank">https://iclr.cc/virtual/2025/workshop/23969</a></td>
         </tr>
       </tbody>
     </table>
