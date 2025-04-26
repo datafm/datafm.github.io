@@ -170,6 +170,12 @@ acknowledgements: ""
         You can print your poster using any service you want.
         ICLR offers an optional poster printing service with delivery to the convention center and can be ordered <a href="https://docs.google.com/forms/d/e/1FAIpQLSeymkgqJXjwrcI2OBt6KpB8D9XHFVhL2YScg7BGr1Fd_3aWpQ/viewform?usp=header" target="_blank">here.</a> 
       </li>
+      <li>
+        Tape will be provided for posters during the workshop sessions and available from volunteers.  Please use the provided tape.  Damage to convention center walls can result in significant charges to ICLR.
+      </li>
+
+
+      
     </ol>
   </div>
 </div>
