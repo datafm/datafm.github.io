@@ -268,7 +268,8 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>9:05 - 9:35 AM</td>
           <td>
-            Invited Talk: <a href="https://www.peterhenderson.co/" target="_blank" >Peter Henderson</a> 🤝🗣️ Copyright Law and Foundation Model Design
+            Invited Talk: <a href="https://www.peterhenderson.co/" target="_blank" >Peter Henderson</a> 🤝🗣️ <br>
+             <b>Copyright Law and Foundation Model Design</b>
           </td>
         </tr>
         <tr>
@@ -313,7 +314,8 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>1:30 - 2:00 PM</td>
           <td>
-            Invited Talk: <a href="https://people.csail.mit.edu/mirrokni/Welcome.html" target="_blank" >Vahab Mirrokni </a>🤝🗣️ Data for Foundation Models: Efficiency, Privacy, and Reasoning
+            Invited Talk: <a href="https://people.csail.mit.edu/mirrokni/Welcome.html" target="_blank" >Vahab Mirrokni </a>🤝🗣️ <br>
+             <b>Data for Foundation Models: Efficiency, Privacy, and Reasoning</b>
           </td>
         </tr>
         <tr>
