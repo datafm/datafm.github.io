@@ -18,7 +18,7 @@ acknowledgements: ""
       Foundation models (FMs) have become central to modern machine learning, with data playing a crucial role in their development and sparking increased attention to data-related challenges such as curation and attribution. Adapting traditional data-centric methods to FMs is challenging due to the scale of both data and model architectures, necessitating interdisciplinary collaboration and community efforts. Building on the success of the first Data Problems in Foundation Models (DATA-FM) workshop at ICLR 2024, the second DATA-FM workshop will address persistent and emerging data-related challenges in FM deployment. While longstanding issues in data collection, curation, and synthesis remain relevant, new challenges have arisen as FMs are integrated into a growing number of applications and become increasingly multi-modal. Concurrently, the societal impact of AI has intensified, highlighting concerns such as data copyright. These evolving challenges emphasize the need for continued, focused discussions on data-related issues in FM development. Our goals include fostering a comprehensive understanding of these challenges across the entire FM pipeline and creating a platform for interdisciplinary researchers to connect, collaborate, and drive progress. We hope this workshop will serve as a catalyst for innovative solutions to critical data challenges, shaping the future of FMs and their wide-ranging applications.
     </p>
     <p>
-      In case of any issues or questions, feel free to email the organizers at <a href="mailto:tianhaowang@princeton.edu" class="red">tianhaowang@princeton.edu</a>.
+      In case of any issues or questions, feel free to email the organizers at <a href="mailto:tianhaowang@princeton.edu" class="red">tianhaowang@princeton.edu</a>. We sincerely thank Adobe for their generous sponsorship of this workshop.
     </p>
   </div>
   <div class="col-md-1 hidden-xs">
@@ -268,13 +268,14 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>9:05 - 9:35 AM</td>
           <td>
-            Invited Talk: <a href="https://www.peterhenderson.co/" target="_blank" >Peter Henderson</a> 🤝🗣️
+            Invited Talk: <a href="https://www.peterhenderson.co/" target="_blank" >Peter Henderson</a> 🤝🗣️ Copyright Law and Foundation Model Design
           </td>
         </tr>
         <tr>
           <td>9:35 - 10:05 AM</td>
           <td>
-            Invited Talk: <a href="https://www.cs.princeton.edu/~danqic/" target="_blank" > Danqi Chen</a> 🤝🗣️
+            Invited Talk: <a href="https://www.cs.princeton.edu/~danqic/" target="_blank" > Danqi Chen</a> 🤝🗣️ <br>
+             <b>How Data Domains Improve Language Model Pre-Training</b>
           </td>
         </tr>
         <tr>
@@ -289,7 +290,7 @@ To sustain our review and program selection processes, we require <b>at least on
             Spotlight Presentation: Xinran Gu 📊 <br>
             <a href="https://openreview.net/forum?id=ZKA4yiGdrA" target="_blank" > Data Mixing Can Induce Phase Transitions in Knowledge Acquisition</a>
             <br>
-            Spotlight Presentation: Xiang Yue 📊 <br>
+            Spotlight Presentation: Edward Yeo 📊 <br>
             <a href="https://openreview.net/forum?id=AgtQlhMQ0V" target="_blank" > Demystifying Long CoT Reasoning in LLMs </a>
           </td>
         </tr>
@@ -302,7 +303,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>12:00 - 1:30 PM</td>
           <td>
-            Lunch Break 🍲
+            Lunch Break 🍲 Lunch Box Bento Provided
           </td>
         </tr>
         <tr>
@@ -312,7 +313,7 @@ To sustain our review and program selection processes, we require <b>at least on
         <tr>
           <td>1:30 - 2:00 PM</td>
           <td>
-            Invited Talk: <a href="https://people.csail.mit.edu/mirrokni/Welcome.html" target="_blank" >Vahab Mirrokni </a>🤝🗣️
+            Invited Talk: <a href="https://people.csail.mit.edu/mirrokni/Welcome.html" target="_blank" >Vahab Mirrokni </a>🤝🗣️ Data for Foundation Models: Efficiency, Privacy, and Reasoning
           </td>
         </tr>
         <tr>
