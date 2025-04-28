@@ -315,7 +315,7 @@ To sustain our review and program selection processes, we require <b>at least on
           <td>1:30 - 2:00 PM</td>
           <td>
             Invited Talk: <a href="https://people.csail.mit.edu/mirrokni/Welcome.html" target="_blank" >Vahab Mirrokni </a>🤝🗣️ <br>
-             <b>Data for Foundation Models: Efficiency, Privacy, and Reasoning</b>
+             <b>Data for LLMs: From Mixture and Efficiency to  Privacy, and Reasoning</b>
           </td>
         </tr>
         <tr>
